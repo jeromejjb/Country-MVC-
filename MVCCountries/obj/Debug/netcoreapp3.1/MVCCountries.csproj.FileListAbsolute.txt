@@ -1,0 +1,13 @@
+C:\Users\Jerome\Desktop\MVCCountries\MVCCountries\bin\Debug\netcoreapp3.1\MVCCountries.exe
+C:\Users\Jerome\Desktop\MVCCountries\MVCCountries\bin\Debug\netcoreapp3.1\MVCCountries.deps.json
+C:\Users\Jerome\Desktop\MVCCountries\MVCCountries\bin\Debug\netcoreapp3.1\MVCCountries.runtimeconfig.json
+C:\Users\Jerome\Desktop\MVCCountries\MVCCountries\bin\Debug\netcoreapp3.1\MVCCountries.runtimeconfig.dev.json
+C:\Users\Jerome\Desktop\MVCCountries\MVCCountries\bin\Debug\netcoreapp3.1\MVCCountries.dll
+C:\Users\Jerome\Desktop\MVCCountries\MVCCountries\bin\Debug\netcoreapp3.1\MVCCountries.pdb
+C:\Users\Jerome\Desktop\MVCCountries\MVCCountries\obj\Debug\netcoreapp3.1\MVCCountries.csproj.AssemblyReference.cache
+C:\Users\Jerome\Desktop\MVCCountries\MVCCountries\obj\Debug\netcoreapp3.1\MVCCountries.AssemblyInfoInputs.cache
+C:\Users\Jerome\Desktop\MVCCountries\MVCCountries\obj\Debug\netcoreapp3.1\MVCCountries.AssemblyInfo.cs
+C:\Users\Jerome\Desktop\MVCCountries\MVCCountries\obj\Debug\netcoreapp3.1\MVCCountries.csproj.CoreCompileInputs.cache
+C:\Users\Jerome\Desktop\MVCCountries\MVCCountries\obj\Debug\netcoreapp3.1\MVCCountries.dll
+C:\Users\Jerome\Desktop\MVCCountries\MVCCountries\obj\Debug\netcoreapp3.1\MVCCountries.pdb
+C:\Users\Jerome\Desktop\MVCCountries\MVCCountries\obj\Debug\netcoreapp3.1\MVCCountries.genruntimeconfig.cache
